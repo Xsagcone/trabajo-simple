@@ -1,0 +1,16 @@
+.Encabezado {
+          display: flex;
+          align-items: center;
+          margin-left: 30%;
+}
+
+ul {
+    color: blue;
+    border: 5px solid black;
+}
+
+#texto {
+    align-content: center;
+    color: brown;
+    
+}
